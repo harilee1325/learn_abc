@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Learn ABC</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Learn ABC</string>
+    <string name="nav_header_subtitle">learnabc@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_canvas">Canvas</string>
+    <string name="menu_abc">ABC</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="alpahbets">ABC</string>
+    <string name="draw">Canvas</string>
+    <string name="submit">Submit</string>
+    <string name="canvas">Canvas</string>
+    <string name="clear">Clear</string>
+    <string name="abc">ABC</string>
+    <string name="info">Draw each alphabet on the canvas space provided to see them in action,</string>
+</resources>

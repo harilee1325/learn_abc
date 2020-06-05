@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "189713132441",
+    "firebase_url": "https://learn-abc-225b4.firebaseio.com",
+    "project_id": "learn-abc-225b4",
+    "storage_bucket": "learn-abc-225b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189713132441:android:c00247a84b3afff33a4108",
+        "android_client_info": {
+          "package_name": "com.example.learnabc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189713132441-u9d9n8vgl1lev160v78vo7n39aa5ibun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQnsE9Wvqzt75k5HOBYdaKRKtBiFSJnU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189713132441-u9d9n8vgl1lev160v78vo7n39aa5ibun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
